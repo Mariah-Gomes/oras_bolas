@@ -17,10 +17,21 @@
 🔹[Desenvolvedores](#busts_in_silhouette-desenvolvedores)
 
 ## :pencil: Descrição do Projeto
-Aqui a gente escreve um ou dois parágrafos explicando o projeto
+Nesse projeto nos foi proposto que à partir de dois valores de "x" e "y" no campo de futebol tínhamos que calcular a trajetória do robô até a bola e depois fazer ele marcar o gol. Uma das dificuldades que tivemos nesse projeto foi que a bola não tem posição fixa então tinhamos que calcular onde que a bola iria estar. Além disso, nosso trabalho calcula o trabalho realizado quando o robô chuta a bola e qual gol é mais perto para ele.  
 
 ## :mag_right: Funcionalidade
-Aqui mostra as funcionalidades do projeto em tópicos (de numeração e com a foto)
+1. A
+2. A
+3. A
+4. A
+5. A
+6. A
+7. A
+8. A
+9. A
+10. A
+11. A
+12. A
 
 ## :computer: Tecnologias Utilizadas
 - A linguagem que utilizamos foi Python
