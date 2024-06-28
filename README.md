@@ -1,6 +1,6 @@
 # Oras Bolas
 
-> Status do projeto: Falta os gráficos do projeto
+> Status do projeto: Finalizado
 
 > Esse projeto nos foi proposto no 2ºSemestre na disciplina de Introdução à Física Clássica
 
