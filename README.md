@@ -31,6 +31,8 @@ Nesse projeto nos foi proposto que à partir de dois valores de "x" e "y" no cam
 
    ![image](https://github.com/Mariah-Gomes/oras_bolas/assets/141663285/cc531e1b-4a82-4c69-a332-7372120130cf)
 
+**OBSERVAÇÃO: OS GRÁFICOS ESTÃO INCOMPLETOS, MAS DECIDIMOS DEIXAR ASSIM**
+
 ## :computer: Tecnologias Utilizadas
 - A linguagem que utilizamos foi Python
 - Desenvolvemos no VS Code
